@@ -1,0 +1,5 @@
+# Ignorar archivos y carpetas del entorno de desarrollo
+.settings/
+bin/
+.classpath
+.project
